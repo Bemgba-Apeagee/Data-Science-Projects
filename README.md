@@ -42,10 +42,10 @@ Mini or Micro Projects:
 •	Waiter Tips Prediction Model: A practical application of linear regression for predicting waiter tips based on various factors such as total bill amount, party size, etc.
 •	Real Estate Price Prediction Model: A project demonstrating the development of a predictive model for real estate prices using regression analysis.
 Data Analysis:
-	Exploratory Data Analysis using the Titanic Dataset: An analysis of the Titanic dataset, exploring various factors that may have influenced survival rates among passengers 
+•	Exploratory Data Analysis using the Titanic Dataset: An analysis of the Titanic dataset, exploring various factors that may have influenced survival rates among passengers 
 	on the Titanic.
-	Life Expectancy Analysis: An examination of factors affecting life expectancy across different countries, utilizing demographic and health-related data.
-	Stock Market Analysis: An analysis of stock market data to identify trends, patterns, and factors influencing stock prices.
+•	Life Expectancy Analysis: An examination of factors affecting life expectancy across different countries, utilizing demographic and health-related data.
+•	Stock Market Analysis: An analysis of stock market data to identify trends, patterns, and factors influencing stock prices.
 Data Visualization:
 •	Exploring Diamond Characteristics: Insights from the Seaborn Diamonds Dataset: A visualization project exploring various characteristics of diamonds, such as carat weight, 
 	cut quality, and price, using the Seaborn library.
