@@ -32,19 +32,25 @@ machine learning, data analysis, and data visualization, each representing my co
 
 Machine Learning:
 Mini or Micro Projects:
-•	Simple Linear Regression: A project demonstrating the application of simple linear regression, a fundamental machine learning technique used to model the relationship between a single independent variable and a dependent variable.
-•	Multiple Linear Regression: An implementation of multiple linear regression, a technique used to model the relationship between multiple independent variables and a dependent variable.
-•	Polynomial Regression: A project showcasing polynomial regression, a regression technique that models the relationship between the independent and dependent variables as an nth-degree polynomial.
-•	Support Vector Regression: An example of support vector regression, a supervised learning algorithm used for regression tasks, where the goal is to predict continuous outcomes.
+•	Simple Linear Regression: A project demonstrating the application of simple linear regression, a fundamental machine learning technique used to model the relationship 
+	between a single independent variable and a dependent variable.
+•	Multiple Linear Regression: An implementation of multiple linear regression, a technique used to model the relationship between multiple independent variables and a 
+	dependent variable.
+•	Polynomial Regression: A project showcasing polynomial regression, a regression technique that models the relationship between the independent and dependent variables as an
+	nth-degree polynomial.
+•	Support Vector Regression: An example of support vector regression, a Supervised learning algorithm used for regression tasks, where the goal is to predict continuous outcomes.
 •	Waiter Tips Prediction Model: A practical application of linear regression for predicting waiter tips based on various factors such as total bill amount, party size, etc.
 •	Real Estate Price Prediction Model: A project demonstrating the development of a predictive model for real estate prices using regression analysis.
 Data Analysis:
-	Exploratory Data Analysis using the Titanic Dataset: An analysis of the Titanic dataset, exploring various factors that may have influenced survival rates among passengers on the Titanic.
+	Exploratory Data Analysis using the Titanic Dataset: An analysis of the Titanic dataset, exploring various factors that may have influenced survival rates among passengers 
+	on the Titanic.
 	Life Expectancy Analysis: An examination of factors affecting life expectancy across different countries, utilizing demographic and health-related data.
 	Stock Market Analysis: An analysis of stock market data to identify trends, patterns, and factors influencing stock prices.
 Data Visualization:
-•	Exploring Diamond Characteristics: Insights from the Seaborn Diamonds Dataset: A visualization project exploring various characteristics of diamonds, such as carat weight, cut quality, and price, using the Seaborn library.
-•	Exploring Penguin Diversity: Insights from the Seaborn Penguin Dataset: A visualization project analyzing the diversity of penguin species based on features such as bill length, bill depth, and flipper length.
+•	Exploring Diamond Characteristics: Insights from the Seaborn Diamonds Dataset: A visualization project exploring various characteristics of diamonds, such as carat weight, 
+	cut quality, and price, using the Seaborn library.
+•	Exploring Penguin Diversity: Insights from the Seaborn Penguin Dataset: A visualization project analyzing the diversity of penguin species based on features such as 
+	bill length, bill depth, and flipper length.
 •	Simple Data Visualization Project: A project showcasing basic data visualization techniques to represent and interpret data effectively.
 
 Each project provides hands-on experience with different aspects of machine learning, data analysis, and data visualization
