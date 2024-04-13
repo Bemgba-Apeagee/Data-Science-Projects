@@ -46,6 +46,10 @@ Data Analysis:
 	on the Titanic.
 •	Life Expectancy Analysis: An examination of factors affecting life expectancy across different countries, utilizing demographic and health-related data.
 •	Stock Market Analysis: An analysis of stock market data to identify trends, patterns, and factors influencing stock prices.
+•	Advertising Budget and Sales Analysis: An examination and prediction of sales based on various campaign budgets such as TV, Radio, and Newspaper.
+•	Most Expensive Footballers 2021 Market Analysis: An analysis of most expensive footballers in 2021 season based on their market value, clubs they play, nationalities, and performance.
+•	Pharmaceutical Sales Analysis: An analysis of Peoples Pharmaceutical sales and distribution analysis to undertand customers channels with most profitable sales, and to explore customer segmentation and channel effectiveness.
+•	Sample Super Store Sales and Profit Analysis: An analysis that examine the various factors contributing to overall sales using cities, countries, products, and sub-category etc.
 Data Visualization:
 •	Exploring Diamond Characteristics: Insights from the Seaborn Diamonds Dataset: A visualization project exploring various characteristics of diamonds, such as carat weight, 
 	cut quality, and price, using the Seaborn library.
